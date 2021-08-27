@@ -31,7 +31,7 @@ ${KLUE_Folder(Dacon)}
 ## Environments Settings
 - #### CUDA version >= 11.1
 - #### Ubuntu 18.04
-- #### huggingface
+- #### huggingface >= 4.8
 ```
 $ conda env create -n klue --file environment.yml
 $ conda activate klue
