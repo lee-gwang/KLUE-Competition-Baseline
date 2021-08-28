@@ -3,7 +3,7 @@ https://dacon.io/competitions/official/235747/overview/description
 
 ## Data Path 
 
-```
+
 ​```
 ${KLUE_Folder(Dacon)}
 ├── train.py
@@ -26,7 +26,7 @@ ${KLUE_Folder(Dacon)}
 |
 └── environment.yml
 ​```
-```
+
 
 ## Environments Settings
 - #### CUDA version >= 11.1
